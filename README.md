@@ -1,4 +1,4 @@
-[Chinese README](https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md)
+# Add Android 12 adapt。
 
 # Android Performance Monitor [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.markzhai/blockcanary-android/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.github.markzhai/blockcanary-android)
 A transparent ui-block detection library for Android, app only needs one-line-code to setup.
